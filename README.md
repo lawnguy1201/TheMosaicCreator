@@ -16,9 +16,9 @@ After that, the program uses `histogram matching` allowing the sub image to take
 
 ### Inputs/Outputs
 **_Input_**
-![img.png](readme images/img.png)
+![img.png](readme%20images/img.png)
 **_Output_**
-![img_1.png](readme images/img_1.png)
+![img_1.png](readme%20images/img_1.png)
 
 ### Issues Along The Way 
 
@@ -27,9 +27,9 @@ line of code, with rbg, instead of rgn. this led to off color images.
 
 ### Iterations Of The Program
 **_Euclidean Distance_**
-![img_2.png](readme images/img_2.png)
+![img_2.png](readme%20images/img_2.png)
 **_RBG Mix up_**
-![img_3.png](readme images/img_3.png)
+![img_3.png](readme%20images/img_3.png)
 **_Corrected RGB_**
-![img_4.png](readme images/img_4.png)
+![img_4.png](readme%20images/img_4.png)
 
